@@ -49,7 +49,7 @@ This contains overview of the my activities like  machine learning competitions,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed camara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-camara-76bb731a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
 <a href="https://fb.com/Ahmed.Camara.Lefa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmed camara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmed camara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ahmed camara" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@camarahmed123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@camarahmed123" height="30" width="40" /></a>
