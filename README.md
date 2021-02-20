@@ -19,3 +19,5 @@ Hello, This is Ahmed Camara!
 This contains overview of the my activities like  machine learning competitions, projects,source code etc....
 
 <hr>
+
+<h1> <a href="https://www.hackerearth.com/challenges/">hackerearth</a> ML Competitions</h1>
