@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, This is Ahmed Camara!
+This contains overview of the my activities like  machine learning competitions, projects,source code etc.
