@@ -48,7 +48,7 @@ This contains overview of the my activities like  machine learning competitions,
 
 :mailbox: Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/Ahmed.Camara.Lefa?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://facebook.com/Ahmed.Camara.Lefa)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Ahmed.Camara.Lefa?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/Ahmed.Camara.Lefa)](https://www.facebook.com/Ahmed.Camara.Lefa)[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-camara-76bb731a2/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:camarahmed123@gmail.com)
 
 
 
