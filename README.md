@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hello, This is Ahmed Camara!
-This contains overview of the my activities like  machine learning competitions, projects,source code etc.
+This contains overview of the my activities like  machine learning competitions, projects,source code etc....
+
+<hr>
