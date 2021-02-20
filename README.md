@@ -60,3 +60,5 @@ This contains overview of the my activities like  machine learning competitions,
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-camara&show_icons=true&locale=en" alt="ahmed-camara" /></p>
 
 </footer>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Camara)](https://github.com/anuraghazra/github-readme-stats)
