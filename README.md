@@ -46,7 +46,13 @@ This contains overview of the my activities like  machine learning competitions,
 
 
 
-<h3 align="left">Connect with me:</h3>
+:mailbox: Reach me out!
+
+[![Facebook Badge](https://img.shields.io/badge/Ahmed.Camara.Lefa?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://facebook.com/Ahmed.Camara.Lefa)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+
+
+
+
 <p align="left" display="flex">
 <a href="https://linkedin.com/in/ahmed-camara-76bb731a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
 <a href="https://fb.com/Ahmed.Camara.Lefa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmed camara" height="30" width="40" /></a>
