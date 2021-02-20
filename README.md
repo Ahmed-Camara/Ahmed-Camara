@@ -48,7 +48,7 @@ This contains overview of the my activities like  machine learning competitions,
 
 :mailbox: Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/Ahmed.Camara.Lefa?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/Ahmed.Camara.Lefa)](https://www.facebook.com/Ahmed.Camara.Lefa)[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-camara-76bb731a2/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:camarahmed123@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Ahmed.Camara.Lefa?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/Ahmed.Camara.Lefa)](https://www.facebook.com/Ahmed.Camara.Lefa)[![Linkedin Badge](https://img.shields.io/badge/ahmed-camara-76bb731a2?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-camara-76bb731a2/) [![Mail Badge](https://img.shields.io/badge/ahmedcamara?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:camarahmed123@gmail.com)
 
 
 
