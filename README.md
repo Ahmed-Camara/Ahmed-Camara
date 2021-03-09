@@ -36,7 +36,7 @@ This contains overview of the my activities like  machine learning competitions,
     <td>HackerEarth Machine Learning Challenge: Exhibit A(rt)</td>
     <td><a href="https://github.com/Ahmed-Camara/HackerEarth-Machine-Learning-Challenge-Exhibit-A-rt-">Code</a></td>
     <td>Regression</td>
-    <td><a href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-shipping-cost/leaderboard/predict-the-cost-to-ship-the-sculptures-12-e7728f5d/page/3/">Link</a></td>
+    <td><a href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-shipping-cost/leaderboard/predict-the-cost-to-ship-the-sculptures-12-e7728f5d/page/7/" target="_blank">Link</a></td>
   </tr>
 </table>
 
