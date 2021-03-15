@@ -46,7 +46,7 @@ This contains overview of the my activities like  machine learning competitions,
 
 
 
-:mailbox: Reach me out!
+:mailbox: - 📫 How to reach me: ...!
 
 <p align="left" display="flex">
 <a href="https://linkedin.com/in/ahmed-camara-76bb731a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
