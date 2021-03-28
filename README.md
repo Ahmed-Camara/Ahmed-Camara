@@ -43,10 +43,6 @@ This contains overview of the my activities like  machine learning competitions,
 
 
 
-
-
-
-
 :mailbox: How to reach me: ...!
 
 <p align="left" display="flex">
