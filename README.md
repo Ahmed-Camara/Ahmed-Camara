@@ -56,4 +56,5 @@ This contains overview of the my activities like  machine learning competitions,
 
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-camara&show_icons=true&locale=en" alt="ahmed-camara" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-camara&show_icons=true&locale=en&layout=compact" alt="ahmed-camara" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Camara&langs_count=8&layout=compact)](https://github.com/Ahmed-Camara/github-readme-stats)
