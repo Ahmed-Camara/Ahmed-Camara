@@ -47,20 +47,22 @@ This contains overview of the my activities like  machine learning competitions,
 <table>
   <tr>
     <th>No.</th>
-    <th>Name</th>
+    <th>Project Name</th>
     <th>GitHub Repo</th>
     <th>Type</th>
+    <th>Algorithms</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Breast Cancer</td>
     <td><a href="https://github.com/Ahmed-Camara/Logistic-Regression-with-Breast-Cancer-Data" target="_blank">Code</a></td>
     <td>Binary Classification</td>
+    <td>Logistic Regression</td>
   </tr>
 </table>
 
 
-
+<hr>
 
 :mailbox: How to reach me: ...!
 
