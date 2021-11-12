@@ -52,6 +52,7 @@ This contains overview of the my activities like  machine learning competitions,
     <th>Type</th>
     <th>Algorithms</th>
   </tr>
+  
   <tr>
     <td>1</td>
     <td>Breast Cancer</td>
@@ -59,6 +60,15 @@ This contains overview of the my activities like  machine learning competitions,
     <td>Binary Classification</td>
     <td>Logistic Regression</td>
   </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Credit Card Fraud Detection</td>
+    <td><a href="https://github.com/Ahmed-Camara/Credit-Card-Fraud-Detection" target="_blank">Code</a></td>
+    <td>Binary Classification</td>
+    <td>Logistic Regression/Decision Tree/ RandomForest</td>
+  </tr>
+  
 </table>
 
 
