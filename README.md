@@ -78,7 +78,7 @@ This contains overview of the my activities like  machine learning competitions,
   </tr>
   
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td>WHO Life Expectancy Prediction</td>
     <td><a href="https://github.com/Ahmed-Camara/ML-WHO-Life-Expectancy-Prediction" target="_blank">Code</a></td>
     <td>Regression</td>
