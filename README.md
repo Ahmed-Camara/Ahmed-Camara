@@ -69,6 +69,22 @@ This contains overview of the my activities like  machine learning competitions,
     <td>Logistic Regression/Decision Tree/ RandomForest</td>
   </tr>
   
+  <tr>
+    <td>3</td>
+    <td>Carnaval War</td>
+    <td><a href="https://github.com/Ahmed-Camara/Carnaval-War" target="_blank">Code</a></td>
+    <td>Regression</td>
+    <td>KNeighborsRegressor</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>WHO Life Expectancy Prediction</td>
+    <td><a href="https://github.com/Ahmed-Camara/ML-WHO-Life-Expectancy-Prediction" target="_blank">Code</a></td>
+    <td>Regression</td>
+    <td>Linear Regression / sm.OLS models</td>
+  </tr>
+  
 </table>
 
 
