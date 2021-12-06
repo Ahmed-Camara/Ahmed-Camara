@@ -85,6 +85,14 @@ This contains overview of the my activities like  machine learning competitions,
     <td>Linear Regression / sm.OLS models</td>
   </tr>
   
+  <tr>
+    <td>5</td>
+    <td>Sentiment Analysis</td>
+    <td><a href="https://github.com/Ahmed-Camara/Tweet-sentiment-analysis" target="_blank">Code</a></td>
+    <td>Binary Classification</td>
+    <td></td>
+  </tr>
+  
 </table>
 
 
