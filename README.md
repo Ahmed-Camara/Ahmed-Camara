@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, This is Ahmed Camara. I am a passionate of development, Machine Learning, Web etc...
-This contains overview of the my activities like  machine learning competitions, projects,source code etc....
+Hello, This is Ahmed Camara. I am a passionate of Software Engineering, and AI technologies.
+This contains overview of the my activities like source code, practices, and projects.
 
 <hr>
 
