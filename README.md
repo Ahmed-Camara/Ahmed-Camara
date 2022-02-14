@@ -23,14 +23,13 @@ This contains overview of the my activities like source code, practices, and pro
 
 <h1> <a href="https://www.hackerearth.com/challenges/">hackerearth</a> ML Competitions</h1>
 
-
 <table>
   <tr>
     <th>No.</th>
     <th>Challenge Name</th>
     <th>GitHub Repo</th>
     <th>Type</th>
-    <th>LeaderBoard</th>
+    <th>LeaderBoard </th>
   </tr>
   <tr>
     <td>1</td>
@@ -68,7 +67,6 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Binary Classification</td>
     <td>Logistic Regression/Decision Tree/ RandomForest</td>
   </tr>
-  
   <tr>
     <td>3</td>
     <td>Carnaval War</td>
@@ -82,15 +80,11 @@ This contains overview of the my activities like source code, practices, and pro
     <td>WHO Life Expectancy Prediction</td>
     <td><a href="https://github.com/Ahmed-Camara/ML-WHO-Life-Expectancy-Prediction" target="_blank">Code</a></td>
     <td>Regression</td>
-    <td>Linear Regression / sm.OLS models</td>
+    <td>Linear Regression / stats models</td>
   </tr>
 </table>
-
-
 <hr>
-
-:mailbox: How to reach me: ...!
-
+:mailbox: How to reach me: ...!!!
 <p align="left" display="flex">
 <a href="https://linkedin.com/in/ahmed-camara-76bb731a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
 <a href="https://fb.com/Ahmed.Camara.Lefa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmed camara" height="30" width="40" /></a>
