@@ -43,7 +43,8 @@ This contains overview of the my activities like source code, practices, and pro
   <tr>
     <th>No.</th>
     <th>Project Name</th>
-    <th>GitHub Repo</th>
+    <th>Link</th>
+    <th>Topic</th>
     <th>Type</th>
     <th>Algorithms</th>
   </tr>
@@ -52,6 +53,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>1</td>
     <td>Breast Cancer</td>
     <td><a href="https://github.com/Ahmed-Camara/Logistic-Regression-with-Breast-Cancer-Data" target="_blank">Code</a></td>
+    <td>Machine Learning</td>
     <td>Binary Classification</td>
     <td>Logistic Regression</td>
   </tr>
@@ -60,6 +62,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>2</td>
     <td>Credit Card Fraud Detection</td>
     <td><a href="https://github.com/Ahmed-Camara/Credit-Card-Fraud-Detection" target="_blank">Code</a></td>
+    <td>Machine Learning</td>
     <td>Binary Classification</td>
     <td>Logistic Regression/Decision Tree/ RandomForest</td>
   </tr>
@@ -67,6 +70,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>3</td>
     <td>Carnaval War</td>
     <td><a href="https://github.com/Ahmed-Camara/Carnaval-War" target="_blank">Code</a></td>
+    <td>Machine Learning</td>
     <td>Regression</td>
     <td>KNeighborsRegressor</td>
   </tr>
@@ -75,6 +79,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>4</td>
     <td>WHO Life Expectancy Prediction</td>
     <td><a href="https://github.com/Ahmed-Camara/ML-WHO-Life-Expectancy-Prediction" target="_blank">Code</a></td>
+    <td>Machine Learning</td>
     <td>Regression</td>
     <td>Linear Regression / stats models</td>
   </tr>
