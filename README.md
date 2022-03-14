@@ -38,7 +38,7 @@ This contains overview of the my activities like source code, practices, and pro
 
 <hr>
 
-<h1>Machine Learning Projects</h1>
+<h1>Machine/Deep Learning Projects</h1>
 <table>
   <tr>
     <th>No.</th>
@@ -84,7 +84,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Linear Regression / stats models</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>Cats vs Dogs</td>
     <td><a href="https://github.com/Ahmed-Camara/cats-vs-dogs-classification" target="_blank">Code</a></td>
     <td>DL</td>
