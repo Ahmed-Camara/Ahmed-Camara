@@ -91,6 +91,16 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Classification</td>
     <td>Keras/Tensorflow</td>
   </tr>
+  
+  <tr>
+    <td>5</td>
+    <td>Facial Emotion Detection</td>
+    <td><a href="https://github.com/Ahmed-Camara/Facial-Emotion-Detection-using-deep-learning" target="_blank">Code</a></td>
+    <td>DL</td>
+    <td>Multi-Classification</td>
+    <td>Keras/Tensorflow</td>
+  </tr>
+  
 </table>
 <hr>
 :mailbox: How to reach me: ...!!!
