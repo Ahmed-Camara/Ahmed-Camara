@@ -106,7 +106,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Face Mask Detection</td>
     <td><a href="https://github.com/Ahmed-Camara/Face-Mask-Detection" target="_blank">Code</a></td>
     <td>DL</td>
-    <td>Multi-Classification</td>
+    <td>Classification</td>
     <td>Keras/Tensorflow</td>
   </tr>
   
