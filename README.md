@@ -57,7 +57,6 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Binary Classification</td>
     <td>Logistic Regression</td>
   </tr>
-  
   <tr>
     <td>2</td>
     <td>Credit Card Fraud Detection</td>
