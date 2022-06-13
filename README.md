@@ -27,6 +27,7 @@ This contains overview of the my activities like source code, practices, and pro
     <th>Type</th>
     <th>LeaderBoard </th>
   </tr>
+  
   <tr>
     <td>1</td>
     <td>HackerEarth Machine Learning Challenge: Exhibit A(rt)</td>
@@ -57,6 +58,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Binary Classification</td>
     <td>Logistic Regression</td>
   </tr>
+  
   <tr>
     <td>2</td>
     <td>Credit Card Fraud Detection</td>
@@ -82,6 +84,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Regression</td>
     <td>Linear Regression / stats models</td>
   </tr>
+  
   <tr>
     <td>5</td>
     <td>Cats vs Dogs</td>
