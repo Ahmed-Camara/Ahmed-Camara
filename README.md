@@ -28,7 +28,6 @@ This contains overview of the my activities like source code, practices, and pro
     <th>LeaderBoard </th>
   </tr>
   
-  
   <tr>
     <td>1</td>
     <td>HackerEarth Machine Learning Challenge: Exhibit A(rt)</td>
