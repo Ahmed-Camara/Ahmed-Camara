@@ -37,7 +37,7 @@ This contains overview of the my activities like source code, practices, and pro
   </tr>
   
   <tr>
-    <td>1</td>
+    <td>2</td>
     <td>Get a room: ML Hackathon</td>
     <td><a href="https://github.com/Ahmed-Camara/Get-a-room-ML-Hackathon">Code</a></td>
     <td>Regression</td>
