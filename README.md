@@ -41,7 +41,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>Get a room: ML Hackathon</td>
     <td><a href="https://github.com/Ahmed-Camara/Get-a-room-ML-Hackathon">Code</a></td>
     <td>Regression</td>
-    <td><a href="https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/leaderboard/identify-the-habitability-score-of-a-property-12-464aae3e/page/2/" target="_blank">Link</a></td>
+    <td><a href="https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/leaderboard/identify-the-habitability-score-of-a-property-12-464aae3e/page/4/" target="_blank">Link</a></td>
   </tr>
   
 </table>
