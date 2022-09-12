@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Hello, This is Ahmed Camara. I am a passionate of Software Engineering, and AI technologies.
 This contains overview of the my activities like source code, practices, and projects.
-
+<!--
 <hr>
 
 <h1> <a href="https://www.hackerearth.com/challenges/">hackerearth</a> ML Competitions</h1>
@@ -45,7 +45,7 @@ This contains overview of the my activities like source code, practices, and pro
   </tr>
   
 </table>
-
+-->
 <hr>
 
 <h1>Machine/Deep Learning Projects</h1>
