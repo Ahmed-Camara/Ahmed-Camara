@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 Hello, This is Ahmed Camara. I am a passionate of Software Engineering, and AI technologies.
 This contains overview of the my activities like source code, practices, and projects.
 <!--
@@ -105,7 +107,7 @@ This contains overview of the my activities like source code, practices, and pro
   
   <tr>
     <td>6</td>
-    <td>Facial Emotion Detection</td>
+    <td>Human Facial Emotion Detection</td>
     <td><a href="https://github.com/Ahmed-Camara/Facial-Emotion-Detection-using-deep-learning" target="_blank">Code</a></td>
     <td>DL</td>
     <td>Multi-Classification</td>
