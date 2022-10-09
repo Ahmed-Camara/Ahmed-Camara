@@ -1,4 +1,5 @@
-### Hi there 👋😎
+### Hi everyone 👋😎
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Java Spring project
@@ -87,6 +88,7 @@ This contains overview of the my activities like source code, practices, and pro
     <td>KNeighborsRegressor</td>
   </tr>
   
+
   <tr>
     <td>4</td>
     <td>WHO Life Expectancy Prediction</td>
