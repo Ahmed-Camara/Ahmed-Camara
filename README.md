@@ -137,12 +137,14 @@ This contains overview of the my activities like source code, practices, and pro
     <th>Course Name</th>
     <th>Course Link</th>
     <th>Certificat Link</th>
+    <th>GitHub Repo</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Mathematics for Machine Learning and Data Science Specialization</td>
     <td><a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">link</a></td>
     <td><a href="#" target="_blank">link</a></td>
+    <td><a href="https://github.com/Ahmed-Camara/Mathematics-for-Machine-Learning-and-Data-Science-Specialization" target="_blank">repo</a></td>
   </tr>
 </table>
 <hr>
