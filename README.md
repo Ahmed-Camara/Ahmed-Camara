@@ -135,8 +135,14 @@ This contains overview of the my activities like source code, practices, and pro
   <tr>
     <th>No.</th>
     <th>Course Name</th>
-    <th><a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">Link</a></th>
-    <th><a href="#" target="_blank">Certificat</a></th>
+    <th>Course Link</th>
+    <th>Certificat Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mathematics for Machine Learning and Data Science Specialization</td>
+    <td><a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">link</a></td>
+    <td><a href="#" target="_blank">link</a></td>
   </tr>
 </table>
 <hr>
