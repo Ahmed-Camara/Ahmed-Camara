@@ -129,6 +129,17 @@ This contains overview of the my activities like source code, practices, and pro
   </tr>
 </table>
 <hr>
+
+<h1>Specializations</h1>
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Course Name</th>
+    <th><a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">Link</a></th>
+    <th><a href="#" target="_blank">Certificat</a></th>
+  </tr>
+</table>
+<hr>
 :mailbox: How to reach me: ...!!!
 <p align="left" display="flex">
 <a href="https://linkedin.com/in/ahmed-camara-76bb731a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed camara" height="30" width="40" /></a>
